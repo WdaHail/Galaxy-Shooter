@@ -1,2 +1,2 @@
-# Pong-Ping
-V-0.1 Pong Ping
+# Galaxy Shooter
+V1 Galay Shooter
